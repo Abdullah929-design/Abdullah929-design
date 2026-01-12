@@ -283,11 +283,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
-
-### 😄 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
