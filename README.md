@@ -60,8 +60,11 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullah929-design&theme=dark&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah929-design&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah929-design&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah929-design&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
