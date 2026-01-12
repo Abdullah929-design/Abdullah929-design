@@ -18,9 +18,9 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+
+<div align="center">
 
 ```yaml
 name: Abdullah Aqeel
@@ -39,7 +39,9 @@ currently_learning: ["Advanced ML", "System Architecture", "DevOps"]
 hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 ```
 
-<br clear="both">
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -126,21 +128,21 @@ hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 
 <br/>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah929-design&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdullah929-design&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah929-design&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Abdullah929-design&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah929-design&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah929-design&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah929-design&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah929-design&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah929-design&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah929-design&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
