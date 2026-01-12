@@ -124,25 +124,42 @@ hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats & Activity
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Stats
+
+![](https://raw.githubusercontent.com/Abdullah929-design/Abdullah929-design/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah929-design&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Abdullah929-design&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah929-design&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah929-design&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Abdullah929-design?label=Followers&style=for-the-badge&color=F85D7F" />
+  <img src="https://img.shields.io/github/stars/Abdullah929-design?label=Stars&style=for-the-badge&color=F85D7F" />
+  <img src="https://komarev.com/ghpvc/?username=Abdullah929-design&color=F85D7F&style=for-the-badge" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah929-design&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
-</p>
+<div align="center">
+
+### 💻 Most Used Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-★★★★☆-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🏆 GitHub Achievements
+
+**89 Total Contributions** | **2 Day Streak** | **5 Longest Streak**
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
