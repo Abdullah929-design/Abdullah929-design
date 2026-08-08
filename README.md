@@ -1,300 +1,165 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdullah%20Aqeel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+# Abdullah Salleh Aqeel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+### MERN / Next.js Full Stack Developer &nbsp;·&nbsp; Agentic AI & LLM Integration
 
-<br/>
+Bahria Town, Lahore, Pakistan &nbsp;·&nbsp; abdullahsallehaqeel123@gmail.com &nbsp;·&nbsp; 0332-4838836
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abdullah929--design-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah929-design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-aqeel-671551321)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullahsallehaqeel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdullahsallehaqeel.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelabdullah654@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahsallehaqeel.netlify.app-1f2328?style=flat-square&logo=googlechrome&logoColor=white)](https://abdullahsallehaqeel.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullah--aqeel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-aqeel-671551321)
+[![Email](https://img.shields.io/badge/Email-abdullahsallehaqeel123%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahsallehaqeel123@gmail.com)
 
 </div>
 
-<br/>
+<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## About
 
-<div align="center">
+I'm a full stack developer building production-grade web applications with the MERN/PERN stack, Next.js, and Laravel, with a growing specialization in agentic AI — fine-tuning small local LLMs, building RAG pipelines, and designing confidence-based routing systems that hand off to a human when a model isn't sure. Currently pursuing a BSE in Software Engineering at COMSATS University Lahore (CGPA 3.61/4.00).
 
-```yaml
-name: Abdullah Aqeel
-located_in: Lahore, Pakistan
-current_role: Full-Stack Developer & ML Enthusiast
-education: ["Computer Science", "Software Engineering"]
+<br>
 
-fields_of_interests:
-  - Web Development
-  - Mobile Development
-  - Machine Learning & AI
-  - System Design
-  - Cloud Computing
+## Tech Stack
 
-currently_learning: ["Advanced ML", "System Architecture", "DevOps"]
-hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
-```
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-</div>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-<br/>
+**Databases & CMS**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Agentic AI / ML**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HF_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> What I Do
+**Game Dev / Other**
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-<div align="center">
+<br>
 
-| 🎯 **Domain** | 💼 **Skills** |
-|:---:|:---|
-| **Web Development** | Building responsive, scalable web applications with modern frameworks |
-| **Mobile Development** | Creating cross-platform mobile apps with Flutter |
-| **Machine Learning** | Developing intelligent systems and AI models |
-| **Backend Engineering** | Designing RESTful APIs and microservices architecture |
-| **Database Design** | SQL & NoSQL database optimization and management |
+## Experience
 
-</div>
+**Web Developer Intern** — Ashlar Global &nbsp;·&nbsp; *05/2026 – Present*
+Built an email automation system (Laravel backend, Next.js frontend) and a production-grade ORM system for employee management and business automation.
 
-<br/>
+**Software Engineering Intern** — Arch Technologies &nbsp;·&nbsp; *02/2026 – 04/2026 · Remote Hybrid*
+Built a real-time CRM (React, Node.js) with cold-calling automation, and shipped a production RAG system for automated chat support.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+## Projects
 
-<div align="center">
+### 🤖 AI / Machine Learning
 
-### 💻 Languages & Frameworks
+**[DETR Sign Detection Application](https://github.com/Abdullah929-design/DETR-SIGN-DETECTION-APPLICATION-)**
+Sign-language detection using transformer-based object detection.
+`DETR` `PyTorch (training pipelines)` `OpenCV (real-time webcam inference)` `dataset labelling via Label Studio` `model checkpoints & realtime inference`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**[Deep Fake Image Detector](https://github.com/Abdullah929-design/DEEP-FAKE-IMAGE-DETECTOR)**
+Detects manipulated / deepfake images using a CNN-based deep learning model.
+`Python` `CNN` `computer vision` `dataset preprocessing & image analysis`
 
-### 🎨 Frontend Development
+**[AI Fake News Detector](https://github.com/Abdullah929-design/AI-FAKE-NEWS-DETECTOR)**
+Full-stack misinformation classifier with a React frontend.
+`React (CRA)` `NLP` `Python/ML backend` `model integration`
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**[ML Movie Recommendation Engine](https://github.com/Abdullah929-design/ML-MOVIE-RECOMMENDATION-ENGINE)**
+Collaborative and content-based movie recommender.
+`Python` `Pandas` `NumPy` `recommender-system evaluation`
 
-### ⚙️ Backend Development
+<br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🌐 Web Development
 
-### 📱 Mobile Development
+**[MERN AI Resume Builder](https://github.com/Abdullah929-design/MERN-FULL-STACK-AI-RESUME-BUILDER)**
+AI-assisted resume generator.
+`React + Vite + TypeScript` `Node.js/Express` `MongoDB (Mongoose)` `AI provider integration` `Tailwind CSS` `PDF export`
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**[MERN Veterinary Ecommerce](https://github.com/Abdullah929-design/MERN-VETERINARY-FULL-STACK-ECOMMERCE-WEBSITE)**
+Full-stack veterinary e-commerce store with an admin dashboard.
+`React` `Node.js` `Express` `TypeScript` `MongoDB` `JWT auth` `deployed on Netlify`
 
-### 🗄️ Databases
+**[Nishat Linen Ecommerce Clone](https://github.com/Abdullah929-design/MERN-NISHAT-LINEN-ECOMMERCE-WEBSITE)** · **[Edenrobe Clone](https://github.com/Abdullah929-design/EDENROBE-CLONE-ECOMMERCE-WEBSITE)** · **[Sanity Ecommerce](https://github.com/Abdullah929-design/SANITY-ECOMMERCE)**
+Full-stack e-commerce clones/stores built on Next.js with a headless CMS.
+`Next.js` `Sanity CMS` `Stripe payments` `Tailwind CSS` `deployed on Vercel/Netlify`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**[MERN Chat App via Socket.IO](https://github.com/Abdullah929-design/MERN-CHAT-APP-VIA-SOCKET.IO)**
+Real-time chat with live messaging.
+`React` `Socket.IO` `Node.js` `user auth`
 
-### 🤖 AI/ML & Data Science
+**[Goldy's Fitness App](https://github.com/Abdullah929-design/POSTGRES-SQL-NODEJS-FULL-STACK-FITNESS-WEBSTIE)**
+PERN-style fitness tracker.
+`Node.js/Express` `PostgreSQL` `React` `JWT auth` `DB migrations & seeding`
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**[CRM System — IDURAR ERP CRM](https://github.com/Abdullah929-design/CRM-SYSTEM)**
+Full-stack business/CRM platform.
+`React + Vite` `Redux Toolkit` `Ant Design` `Node.js/Express` `MongoDB + Mongoose` `JWT` `file uploads` `PDF generation`
 
-### 🛠️ Tools & Technologies
+**[Personal Portfolio](https://github.com/Abdullah929-design/PERSONAL-PORTFOLIO)** · practice/foundation repos ([MERN Practice](https://github.com/Abdullah929-design/MERN-PRACTICE-REPO), [Resume Site](https://github.com/Abdullah929-design/Abdullah929-design.github.io))
+`HTML/CSS` `React` `Vite/CRA` `GitHub Pages / Netlify`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br>
 
-</div>
+### 🎮 Game Development
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**[Unity-Chan Game](https://github.com/Abdullah929-design/Unity-Chan-Game)**
+3D platformer with collectibles and NavMesh-driven enemy AI.
+`Unity` `C#` `NavMesh AI navigation` `TextMesh Pro` `Unity UI` `audio integration`
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats & Activity
+**[Zombie Arena Game](https://github.com/Abdullah929-design/Zombie-Arena-Game)** · **[FPS Shooter Game](https://github.com/Abdullah929-design/FPS-Shooter-Game)** · **[Start Sparrow Space Game](https://github.com/Abdullah929-design/Start-Sparrow-Space-Game)**
+Arena, FPS, and space-shooter mechanics across three Unity builds.
+`Unity` `C#` `enemy AI & spawning` `scene/asset management` `PC/mobile build targets` `EDM4U dependency management`
 
-<br/>
+<br>
 
-<div align="center">
+## Education & Certifications
 
-### 📈 Contribution Stats
+**BSE Software Engineering**, COMSATS University Lahore — CGPA 3.61/4.00 (2023–2027)
+IBM Data Science Certification &nbsp;·&nbsp; Web Design for Everybody Certification
+
+<br>
+
+## GitHub Activity
 
 ![](https://raw.githubusercontent.com/Abdullah929-design/Abdullah929-design/output/github-contribution-grid-snake.svg)
 
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Abdullah929-design?label=Followers&style=for-the-badge&color=F85D7F" />
-  <img src="https://img.shields.io/github/stars/Abdullah929-design?label=Stars&style=for-the-badge&color=F85D7F" />
-  <img src="https://komarev.com/ghpvc/?username=Abdullah929-design&color=F85D7F&style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/github/followers/Abdullah929-design?label=Followers&style=flat-square&color=1f2328" />
+  <img src="https://img.shields.io/github/stars/Abdullah929-design?label=Stars&style=flat-square&color=1f2328" />
+  <img src="https://komarev.com/ghpvc/?username=Abdullah929-design&color=1f2328&style=flat-square" />
 </p>
 
-<br/>
+<br>
 
 <div align="center">
 
-### 💻 Most Used Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-★★★★☆-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🏆 GitHub Achievements
-
-**89 Total Contributions** | **2 Day Streak** | **5 Longest Streak**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 MERN Veterinary Ecommerce
-  
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
-  
-**Full-stack e-commerce platform** with product management, shopping cart, secure payment gateway integration, and admin dashboard.
-
-**Tech:** MongoDB, Express.js, React.js, Node.js, JWT, Stripe
-
-</td>
-<td width="50%">
-
-### 💪 PERN Goldys Fitness App
-  
-![PERN](https://img.shields.io/badge/PERN-Stack-blue?style=flat-square)
-  
-**Comprehensive fitness tracking** application with workout plans, progress monitoring, nutrition tracking, and user analytics.
-
-**Tech:** PostgreSQL, Express.js, React.js, Node.js, Chart.js
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎭 Deep Fake Image Detector
-  
-![ML](https://img.shields.io/badge/Machine-Learning-red?style=flat-square)
-  
-**AI-powered detection system** to identify deepfake and manipulated images using deep learning and computer vision techniques.
-
-**Tech:** Python, TensorFlow, Keras, OpenCV, CNN
-
-</td>
-<td width="50%">
-
-### 📰 AI Fake News Detector
-  
-![NLP](https://img.shields.io/badge/NLP-Project-orange?style=flat-square)
-  
-**Intelligent news classifier** using natural language processing to detect misinformation and classify news authenticity.
-
-**Tech:** Python, NLTK, scikit-learn, JavaScript, React
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📸 Flutter Cam Scanner & PDF Editor
-  
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-cyan?style=flat-square)
-  
-**Cross-platform mobile app** for document scanning, image enhancement, OCR, and PDF editing with cloud storage.
-
-**Tech:** Flutter, Dart, Firebase, ML Kit, PDF Libraries
-
-</td>
-<td width="50%">
-
-### 🎬 ML Movie Recommendation Engine
-  
-![Recommendation](https://img.shields.io/badge/Recommendation-System-purple?style=flat-square)
-  
-**Personalized recommendation system** using collaborative filtering and content-based algorithms for movie suggestions.
-
-**Tech:** Python, Pandas, NumPy, scikit-learn, Flask
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35"> Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Abdullah929-design">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/abdullah-aqeel-671551321">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/abdullahsallehaqeel">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://abdullahsallehaqeel.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:aqeelabdullah654@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-📍 **Bahria Town, Lahore, Pakistan**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Thanks for visiting!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah929-design&color=F85D7F&style=for-the-badge)
-
-**⭐ From [Abdullah929-design](https://github.com/Abdullah929-design) | Building the future, one commit at a time 🚀**
+**[Portfolio](https://abdullahsallehaqeel.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/abdullah-aqeel-671551321) · [Email](mailto:abdullahsallehaqeel123@gmail.com)**
 
 </div>
